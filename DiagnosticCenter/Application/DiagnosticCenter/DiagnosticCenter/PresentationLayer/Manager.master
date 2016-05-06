@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/PresentationLayer/MasterPage.Master" AutoEventWireup="true"
+    CodeBehind="Manager.master.cs" Inherits="DiagnosticCenter.NestedMasterPage1" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div style="height: 700px; width: 100%;">
+        <asp:Panel ID="Panel1" runat="server" Style="z-index: 1; position: absolute; height: 700px;
+            top: 0px; left: 0px; width: 180px;" BackColor="#669999" BorderStyle="None">
+            <asp:LinkButton ID="LinkButtonViewStaff" runat="server" Font-Underline="false" Font-Size="Large"
+                Style="z-index: 1; left: 0px; top: 30px; position: absolute; width: 180px; height: 26px;"
+                OnClick="LinkButtonViewStaff_Click" 
+                ValidationGroup="ViewStaff" CausesValidation="False" ForeColor="Maroon">View Staff Details</asp:LinkButton>
+            <asp:LinkButton ID="LinkButtonAddStaff" runat="server" Font-Underline="false" OnClick="LinkButtonAddStaff_Click"
+                Font-Size="Large" Style="z-index: 1; left: 0px; top: 60px; position: absolute;
+                height: 27px; width: 180px;" CausesValidation="False" ForeColor="Maroon">Add Staff</asp:LinkButton>
+            <asp:LinkButton ID="LinkButton2" runat="server" Font-Underline="false" Font-Size="Large"
+                
+                Style="z-index: 1; left: 0px; top: 90px; position: absolute; width: 180px; height: 26px;" 
+                ForeColor="Maroon" onclick="LinkButton2_Click" CausesValidation="False">Application Requests</asp:LinkButton>
+             <asp:LinkButton ID="LinkButton1" runat="server" Font-Underline="false" Font-Size="Large"
+                Style="z-index: 1; left: 0px; top: 120px; position: absolute; width: 180px; height: 26px;"
+                OnClick="LinkButtonPwd_Click" 
+                ValidationGroup="ChangePwdManager" CausesValidation="False" 
+                ForeColor="Maroon">Change Password</asp:LinkButton>
+            <asp:LinkButton ID="LinkButtonLogout" runat="server" Font-Size="Large"
+                Font-Underline="false" OnClick="LinkButtonLogout_Click" Style="z-index: 1; left: 0px;
+                top: 150px; position: absolute; width: 180px; height: 26px;" 
+                ValidationGroup="ManagerLogout" CausesValidation="False" 
+                ForeColor="Maroon">Logout</asp:LinkButton>
+            
+            <asp:Label ID="lblOnNested" runat="server" 
+                style="z-index: 1; left: 0px; top: 0px; position: absolute" Text="Label" 
+                Font-Names="monotype corsiva,large" Font-Size="Medium" ForeColor="Yellow"></asp:Label>
+            
+        </asp:Panel>
+        <asp:Panel ID="Panel2" runat="server" Style="z-index: 1; position: absolute; height: 700px;
+            left: 180px; top:0px; right: 0px; width: 830px;" 
+            BorderStyle="None">
+            <asp:ContentPlaceHolder ID="newcontent" runat="server">
+            </asp:ContentPlaceHolder>
+        </asp:Panel>
+    </div>
+</asp:Content>

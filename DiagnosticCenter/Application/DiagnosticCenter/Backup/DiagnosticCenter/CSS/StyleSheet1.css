@@ -1,0 +1,136 @@
+﻿body
+  {
+	background-color:#D0D0D0;
+  }
+  .title
+  {
+	position:relative;
+	top:0px;
+	width:100%;
+	height:120px;
+	background-color:#339933;
+  }
+  #left
+  {
+    position:absolute;
+    left:0px;
+    width:200px;
+	height:120px;
+  }
+  .title img
+  {
+	float:left;
+	margin-right:50px;
+	padding:0px;
+	width:200px;
+	height:120px;
+  }
+  #right
+  {
+	position:absolute;
+	top:0px;
+	right:0px;
+	width:200px;
+	height:120px;
+  }
+  #text
+  {
+      position:absolute;
+      top:30px;
+      left:250px;
+      width:700px;
+  }
+ #menu 
+{
+	width:100%;
+	height:28px;
+	margin:0px;
+	position:relative;
+	background-color:#3366CC;
+    top: 0px;
+    left: 0px;
+    z-index:10;
+}
+.navbar
+{
+	height:30px;
+	padding:0px;
+	margin:0px;
+	position:relative;
+}
+.navbar li
+{
+	list-style-type:none;
+	float:left;
+	padding:0px;
+	margin:0px;
+	width:100px;
+	height:auto;
+}
+.navbar a
+{
+	padding:5px 0px 5px 0px ;
+	text-align:center;
+	text-decoration:none;
+	display:block;
+	color:white;
+}
+.navbar li:hover,a:hover
+{
+	background-color:#6699FF;
+}
+.navbar li ul
+{
+	display:none;
+	height:auto;
+	margin:0px;
+	padding:0px;
+}
+.welcome
+{
+    position:relative;
+    top:0px;
+    background-color:Gray;
+    left: 0px;
+    width: 100%;
+    height:20px;
+}
+.navbar li:hover ul
+{
+	display:block;
+}
+.navbar li ul li
+{
+	background-color:#3366CC;
+	border-bottom:1px solid white;
+}
+.navbar li ul li a:hover
+{
+	background-color:#6699CC;
+}
+.title h1
+{
+	color:blue;
+}
+marquee
+{
+    color:Red;
+    font-size: medium;
+}
+#content
+{
+    position:relative;
+    background-color: #E8E8E8 	;
+    height:700px;
+    width:100%;
+    
+}
+#footer 
+{
+    position:relative;
+    top:-20px;
+    color:Blue;
+    background-color:Gray;
+    height:20px;
+    width:100%;
+}

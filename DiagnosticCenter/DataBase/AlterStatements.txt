@@ -1,0 +1,9 @@
+alter table Addstaff alter column EMail varchar(50) not null
+
+alter table Addstaff add constraint pk_emailStaff primary key(EMail)
+
+alter table BookAppointment alter column AppointmentDate varchar(20) not null
+
+alter table BookAppointment add constraint pk_BookAppointment primary key(UserName,ServiceType,AppointmentDate)
+
+alter table AddStaff alter column EMail varchar(50)

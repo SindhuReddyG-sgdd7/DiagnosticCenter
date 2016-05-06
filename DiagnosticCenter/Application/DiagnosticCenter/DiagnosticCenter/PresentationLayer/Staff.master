@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/PresentationLayer/MasterPage.Master" AutoEventWireup="true" CodeBehind="Staff.master.cs" Inherits="DiagnosticCenter.Staff" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div style="height: 700px">
+        <asp:Panel ID="Panel1" runat="server" BorderStyle="None" Style="z-index: 1; position: absolute;
+            height: 700px; left: 0px; width: 180px; top: 0px;" BackColor="#669999">
+            <asp:Label ID="lblStaff" runat="server" Font-Size="Medium" 
+                style="z-index: 1; left: 0px; top: 0px; position: absolute; width: 180px; height: 30px" 
+                Font-Names="Monotype Corsiva" ForeColor="Yellow"></asp:Label>
+            <asp:LinkButton ID="LinkButtonPatient" runat="server" Font-Underline="false"
+                Font-Size="Large" 
+                Style="z-index: 1; left: 0px; top: 33px; position: absolute; width: 180px; height: 26px;"
+                onclick="LinkButtonPatient_Click" 
+                CausesValidation="False" ForeColor="Maroon">Add Patient Details</asp:LinkButton>
+            <asp:LinkButton ID="LinkButtonSchedule" runat="server" Font-Underline="false" Font-Size="Large"
+                Style="z-index: 1; left: 0px; top: 59px; position: absolute;
+                height: 26px; width: 180px;"
+                 ValidationGroup="group" onclick="LinkButtonSchedule_Click" 
+                CausesValidation="False" ForeColor="Maroon">View Schedule</asp:LinkButton>
+            <asp:LinkButton ID="LinkButtonPwd" runat="server" Font-Underline="false" Font-Size="Large"
+                
+                
+                Style="z-index: 1; left: 0px; top: 85px; position: absolute; width: 180px; height: 26px;"
+                OnClick="LinkButtonPwd_Click" CausesValidation="False" ForeColor="Maroon">Change Password</asp:LinkButton>
+            <asp:LinkButton ID="LinkButtonLogout" runat="server" Font-Underline="false" Font-Size="Large"
+                
+                
+                Style="z-index: 1; left: 0px;
+                top: 111px; position: absolute; width: 180px; height: 26px;"  ValidationGroup="group"
+                OnClick="LinkButtonLogout_Click" 
+                CausesValidation="False" ForeColor="Maroon">Logout</asp:LinkButton>
+        </asp:Panel>
+        <asp:Panel ID="Panel2" runat="server" BorderStyle="None" Style="z-index: 1; position: absolute;
+            height: 700px; width: 870px; left: 180px; top: 0px">
+            <asp:ContentPlaceHolder ID="ContentStaff" runat="server" />
+        </asp:Panel>
+    </div>
+
+</asp:Content>

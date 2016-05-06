@@ -1,0 +1,444 @@
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\HtmlAgilityPack.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\AjaxMin.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.Data.OData.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.Data.Edm.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\System.Spatial.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.Data.OData.xml
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.Data.Edm.xml
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\System.Spatial.xml
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\de\System.Spatial.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\es\System.Spatial.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\fr\System.Spatial.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\it\System.Spatial.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ja\System.Spatial.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ko\System.Spatial.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\ru\System.Spatial.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Ramesh\Desktop\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.csprojResolveAssemblyReference.cache
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\HtmlAgilityPack.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxMin.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.Data.OData.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.Data.Edm.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\System.Spatial.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.Data.OData.xml
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\Microsoft.Data.Edm.xml
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\System.Spatial.xml
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\de\System.Spatial.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\es\System.Spatial.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\fr\System.Spatial.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\it\System.Spatial.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ja\System.Spatial.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ko\System.Spatial.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\ru\System.Spatial.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Versions\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\Ramesh\Desktop\WorkToday\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\WorkAtHome\WorkToday2\Versions\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Friday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.csprojResolveAssemblyReference.cache
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\Siddu\Desktop\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.csprojResolveAssemblyReference.cache
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\Ramesh\Desktop\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\SundayNight\MR.Ram\Ram\SundayModified\WorkSaturday\Saturday\Final\Version9\Version7\Version1\case\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\mslceltp997\Desktop\Code\Case Studies\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll.config
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.csprojResolveAssemblyReference.cache
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+C:\Users\sindhu\Downloads\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll.config
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\DiagnosticCenter.pdb
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\AjaxControlToolkit.pdb
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ar\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\cs\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\de\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\es\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\fr\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\he\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\hi\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\it\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ja\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ko\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\nl\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\pl\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\pt\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\ru\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.csprojResolveAssemblyReference.cache
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.dll
+D:\TechM\Case Study 2\Case Study 2\Application\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
